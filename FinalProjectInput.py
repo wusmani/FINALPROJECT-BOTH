@@ -1,5 +1,5 @@
-# Name-
-# ID-
+# Name- Wasay Usmani
+# ID- 1878157
 
 import csv
 file = open('ManufacturerList.csv')
